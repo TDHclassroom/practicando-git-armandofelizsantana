@@ -16,5 +16,5 @@ Versión desarrollada en rama feature
 Versión desarrollada en rama main
 
 
-Versión desarrollada en rama feature
- feature/conflicto-simulado
+## Información del proyecto
+Versión combinada de ambas ramas
